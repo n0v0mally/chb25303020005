@@ -3,5 +3,5 @@
 int main()
 {
     // @TODO: print a sentence you want.
-    printf("i like chatgpt haha\n");
+    printf("Hello from feature!\n");
 }
